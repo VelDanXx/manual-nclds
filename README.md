@@ -218,7 +218,7 @@ JuniperBot - основной бот-помощник, для выполнени
 ## Вопросы технмческого характера
 *JuniperBot перестал работать. Что делать?*
 Ответ: Выдайте мут вручную
-[image](https://media.discordapp.net/attachments/1282733306856603771/1423302081871216780/image.png?ex=68dfd0db&is=68de7f5b&hm=5e5af4fde866b00ba47e735956e4e0096f8a031a77368ccbaa2feda0732a818f&=&format=webp&quality=lossless&width=333&height=202)
+![image](https://media.discordapp.net/attachments/1282733306856603771/1423302081871216780/image.png?ex=68dfd0db&is=68de7f5b&hm=5e5af4fde866b00ba47e735956e4e0096f8a031a77368ccbaa2feda0732a818f&=&format=webp&quality=lossless&width=333&height=202)
 
 *Helper не работает, мне оповестить о проблеме?*
 Ответ: Необязательно, скорее всего Я в курсе проблемы. Сообщайте лишь о багах.
