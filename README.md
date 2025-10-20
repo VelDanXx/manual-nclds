@@ -35,15 +35,15 @@ NCLDS — Discord. За него отвечает Discord-staff, ведущая 
 ```{/} | !remwarn <номер случая>``` - снять конкретное предупреждение.    
 
 ### Муты
-```{/} | !mute <@user> | <ID> <time> <reason>```  - выдать мут.   
-```{/} | !unmute <@user> | <ID>``` - снять мут.
+```/mute <@user> | <ID> <time> <reason>```  - выдать мут.   
+```/unmute <@user> | <ID>``` - снять мут.
 
 ### Баны
-```{/} | !ban <@user> | <ID> <time> <reason>``` - выдать бан.          
-```{/} | !unban <@user> | <ID> | <username>``` - снять бан.
+```/ban <@user> | <ID> <time> <reason>``` - выдать бан.          
+```/unban <@user> | <ID> | <username>``` - снять бан.
 
 ### Кик
-```{/} | !kick <@user> (или ID) <reason>``` - кикнуть пользователя.
+```{/} | !kick <@user> (или ID) <reason>``` - Команда для кика. **Не используйте её.**
 
 ### Утилиты
 
@@ -64,9 +64,8 @@ NCLDS — Discord. За него отвечает Discord-staff, ведущая 
 ```<time>``` — срок: `1s`, `1m`, `1h`, `1d`, `1w`, `1y`.         
 ```<reason>``` — причина, обязательно указывайте.         
 
-**Пример** выдачи мута на 1 час по причине "флуд":    
-```!mute @user 1h флуд```         
-```!mute 12345 1h флуд```
+**Пример** выдачи мута на 1 час и 30 секунд по причине "флуд":    
+```/mute @user 1h30s флуд```         
 
 ![Пример мута](https://github.com/VelDanXx/manual-nclds/blob/main/reference/image.png)
 
@@ -257,7 +256,7 @@ NCLDS — Discord. За него отвечает Discord-staff, ведущая 
 ## Вопросы технического характера
 - *JuniperBot перестал работать. Что делать?*      
 Ответ: Выдайте мут вручную. Как показано на скриншоте:      
-![image](https://media.discordapp.net/attachments/1282733306856603771/1423305820736716850/image.png?ex=68dfd457&is=68de82d7&hm=87b4f32015349fb331d44ef89bd847798984b6399e915aac0d20dbaf807347cc&=&format=webp&quality=lossless&width=225&height=140)
+![image](https://github.com/VelDanXx/manual-nclds/blob/main/reference/image2.png)
 
 - *Helper не работает, мне оповестить о проблеме?*        
 Ответ: Необязательно, скорее всего Я в курсе проблемы. Сообщайте лишь о багах.
