@@ -68,7 +68,7 @@ NCLDS — Discord. За него отвечает Discord-staff, ведущая 
 ```!mute @user 1h флуд```         
 ```!mute 12345 1h флуд```
 
-![Пример мута](https://media.discordapp.net/attachments/1282733306856603771/1423302638438584360/image.png?ex=68dfd160&is=68de7fe0&hm=829a845011446cf6548ac7ec3d68f32398f7c1c574060ec0514d295635cf6d7e&=&format=webp&quality=lossless&width=338&height=200)
+![Пример мута](https://github.com/VelDanXx/manual-nclds/blob/main/reference/image.png)
 
 *Примечание: если вы примените команду в ответ на чьё-либо сообщение, бот накажет автора этого сообщения, а не пользователя, указанного в команде.*
 
